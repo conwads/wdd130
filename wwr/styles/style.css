@@ -232,13 +232,6 @@ main section img {
     box-sizing: border-box;
 }
 
-.camping-card, .rapids-card, .ivers-card {
-    margin: 10px solid #d9c2a3;
-
+.camping-card, .rapids-card, .rivers-card {
+    margin: 200px 0;
 }
-
-
-
-
-
-
