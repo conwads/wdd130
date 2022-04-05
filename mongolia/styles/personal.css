@@ -5,8 +5,8 @@
 body {
     background-color: #fcfbfb;
     color: #82c2c7;
-    font-family: Josefin Sans;
-    font-size: 22px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 29px;
     margin: 0;
     padding: 0;
 }
@@ -93,10 +93,10 @@ nav a:hover {
 
 /* class selectors */
 .book, .join {
-    background-color: #d9c2a4;
+    background-color: #82c2c7;
     border-radius: 5px;
-    color: #fcfbfb;
-    font-size: 18px;
+    color: black;
+    font-size: 35px;
     margin-top: 50px;
     /* margin-bottom: 50px; */
     padding: 15px 30px;
@@ -151,8 +151,8 @@ nav a:hover {
 
 .home-title {
     color: white;
-    font-family: 'Permanent Marker', cursive;
-    font-size: 2em;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4em;
     margin-top: 10px;
 }
 
@@ -165,7 +165,7 @@ nav a:hover {
 }
 
 .logo {
-    width: 80px;
+    width: 150px;
 }
 
 .mountains {
@@ -190,7 +190,7 @@ nav a:hover {
 
 .msg h2 {
     color: #82c2c7;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .msg p {
@@ -198,7 +198,7 @@ nav a:hover {
     text-align: center;
     color: #82c2c7;
     /* font-size: 8em; */
-    padding-bottom: 15px;
+    padding-bottom: 40px;
 }
 
 /* id selectors */
